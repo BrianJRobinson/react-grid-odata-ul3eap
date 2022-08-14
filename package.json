@@ -1,0 +1,29 @@
+{
+  "name": "react-grid-odata",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "16.1.1",
+    "cldr-data": "32.0.1",
+    "react-dom": "16.1.1",
+    "prop-types": "15.6.1",
+    "@progress/kendo-drawing": "1.5.2",
+    "@progress/kendo-react-pdf": "0.5.1",
+    "@progress/kendo-data-query": "1.2.2",
+    "@progress/kendo-react-grid": "0.5.1",
+    "@progress/kendo-react-intl": "0.5.1",
+    "@progress/kendo-react-inputs": "0.5.1",
+    "@progress/kendo-theme-default": "2.49.1",
+    "@progress/kendo-react-dropdowns": "0.5.1",
+    "@progress/kendo-react-dateinputs": "0.5.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
